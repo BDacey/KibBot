@@ -74,4 +74,4 @@ client.on('voiceStateUpdate', (oldState, newState) => {
 
 
 //authenticate
-client.login('OTg4OTM5MTEyNzQ2NzEzMDg4.GhqXCS.dnUXdthmxBBFIdFM_dNW_e9_8X8H_0OSFZMEYw')
+client.login(auth)
